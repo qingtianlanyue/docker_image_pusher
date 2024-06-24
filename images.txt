@@ -1,1 +1,2 @@
 --platform=linux/arm64 docker.io/rancher/mirrored-flannelcni-flannel-cni-plugin:v1.
+--platform=linux/arm64 docker.io/rancher/mirrored-flannelcni-flannel:v0.20.2
